@@ -5,10 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/DisProFil/Content/Maps/Artifical+Natural.umap",
 				"D:/DisProFil/Content/Maps/Study.umap",
 				"D:/DisProFil/Content/Maps/Courtyard.umap",
-				"D:/DisProFil/Content/Maps/Studio.umap"
+				"D:/DisProFil/Content/Maps/Studio.umap",
+				"D:/DisProFil/Content/Maps/StudySeq.uasset",
+				"D:/DisProFil/Content/DreamscapeSeries/DreamscapeTower/Meshes/Props/SM_Globe1.uasset",
+				"D:/DisProFil/Content/Asian_Village/materials/building_materials/base_materials/MI_wood_01_Inst1.uasset",
+				"D:/DisProFil/Content/DreamscapeSeries/DreamscapeTower/Materials/Water/MI_River_Base.uasset",
+				"D:/DisProFil/Content/Maps/Artifical+Natural.umap"
 			]
 		}
 	]
