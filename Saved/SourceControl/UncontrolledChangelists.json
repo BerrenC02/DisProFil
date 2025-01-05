@@ -32,6 +32,15 @@
 				"D:/DisProFil/Content/Maps/StudySeqV2.uasset",
 				"D:/DisProFil/Content/Maps/CourtyardSeq.uasset",
 				"D:/DisProFil/Content/Maps/CaveSeq.uasset",
+				"D:/UE_5.2/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/Water/MI_Pool_02.uasset",
+				"D:/DisProFil/Content/CaveRender.uasset",
+				"D:/DisProFil/Content/Crystal_cave/Materials/MI_crystal_yellow1.uasset",
+				"D:/DisProFil/Content/Crystal_cave/Materials/MI_sprite1.uasset",
+				"D:/DisProFil/Content/Crystal_cave/Materials/MI_sprite2.uasset",
+				"D:/DisProFil/Content/Crystal_cave/Fx/NS_fyling_particle1.uasset",
+				"D:/DisProFil/Content/Crystal_cave/Fx/NS_fyling_particle2.uasset",
+				"D:/DisProFil/Content/CourtRender.uasset",
+				"D:/DisProFil/Content/StudyRender.uasset",
 				"D:/DisProFil/Content/Maps/Artifical+Natural.umap"
 			]
 		}
